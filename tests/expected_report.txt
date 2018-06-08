@@ -7,6 +7,7 @@ tests/input/array_indentation.php                     10      0
 tests/input/concatenation_spacing.php                 24      0
 tests/input/EarlyReturn.php                           4       0
 tests/input/example-class.php                         23      0
+tests/input/FooException.php                          1       0
 tests/input/forbidden-comments.php                    4       0
 tests/input/forbidden-functions.php                   6       0
 tests/input/LowCaseTypes.php                          2       0
@@ -14,10 +15,10 @@ tests/input/namespaces-spacing.php                    7       0
 tests/input/new_with_parentheses.php                  18      0
 tests/input/not_spacing.php                           7       0
 tests/input/null_coalesce_operator.php                3       0
-tests/input/return_type_on_closures.php               21      0
-tests/input/return_type_on_methods.php                17      0
+tests/input/return_type_on_closures.php               5       0
+tests/input/return_type_on_methods.php                1       0
 tests/input/semicolon_spacing.php                     3       0
-tests/input/test-case.php                             6       0
+tests/input/test-case.php                             5       0
 ----------------------------------------------------------------------
 A TOTAL OF 155 ERRORS AND 0 WARNINGS WERE FOUND IN 15 FILES
 ----------------------------------------------------------------------
