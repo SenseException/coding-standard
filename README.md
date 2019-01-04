@@ -1,5 +1,5 @@
-Doctrine Coding Standard
-========================
+Doctrine Coding Standard TEST
+=============================
 
 [![Build Status](https://img.shields.io/travis/doctrine/coding-standard/master.svg?style=flat-square)](http://travis-ci.org/doctrine/coding-standard)
 [![Total Downloads](https://img.shields.io/packagist/dt/doctrine/coding-standard.svg?style=flat-square)](https://packagist.org/packages/doctrine/coding-standard)
